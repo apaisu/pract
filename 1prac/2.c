@@ -2,9 +2,9 @@
 
 int main(void)
 {
-    printf("[Толщин М.А.]\n");
-    printf("  Толщин   \n");
-    printf("      М.А.\n");
-    printf("]М.А. Толщин[\n");
+    printf("[Хохлов О.О.]\n");
+    printf("  Хохлов   \n");
+    printf("      О.О.\n");
+    printf("]О.О.Хохлов[\n");
     return 0;
 }
